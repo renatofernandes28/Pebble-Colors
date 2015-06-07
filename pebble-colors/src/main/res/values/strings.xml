@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Colors</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="ip_hint">Enter a valid IP Address</string>
+    <string name="lets_color">Let\'s Color!</string>
+
+    <string name="error_blank_ip_address">Please Enter an IP Address</string>
+    <string name="error_fail_to_connect">Failed to connect to %1$s, check if IP address is valid</string>
+
+    <string name="current_color_string">"Red: %1$d Green: %2$d Blue: %3$d</string>
+    <string name="command_string">%1$s: ( Red: %2$d | Green: %3$d | Blue: %4$d )</string>
+</resources>
